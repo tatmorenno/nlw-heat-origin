@@ -8,4 +8,4 @@
  
  **Vem com a gente!** 👩🏻‍🚀
  
- ```<desenvolvido>``` pela [Rocketseat](rocketseat.com.br) com toques especiais de [Tatiana Moreno](https://www.linkedin.com/in/tatmorenno/) ```</♥>```
+ ```<♥>``` Desenvolvido pela [Rocketseat](rocketseat.com.br) com toques especiais de [Tatiana Moreno](https://www.linkedin.com/in/tatmorenno/) ```</♥>```
