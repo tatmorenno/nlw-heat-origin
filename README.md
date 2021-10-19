@@ -9,7 +9,7 @@ Projeto desenvolvido na missão *Origin* do **NLW Heat 2021** que visa gerar o c
 
 #### ❔ O que aborda a missão Origin?
 
-Aborda conteúdos que visam ensinar os fundamentos da programação para quem está no início da jornada. <br/><br/>
+Aborda conteúdos que visam ensinar os fundamentos da programação para quem está no início da jornada como desenvolvedor. <br/><br/>
 
  **Vem com a gente!** 👩🏻‍🚀
  
